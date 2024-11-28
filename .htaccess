@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Área Restrita"
+AuthUserFile /path/para/seu/arquivo/de/usuarios
+Require valid-user
